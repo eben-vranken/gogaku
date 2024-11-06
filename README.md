@@ -6,6 +6,8 @@ Gogaku is built on Tauri, with NextJS and TailwindCSS on the front-end.
 
 Running locally in a development window:
 
+>This should open a window on your desktop, additionally you can also visit http://localhost:3000/ and view it in your browser.
+
 ```bash
 npm run tauri dev
 # or
@@ -17,6 +19,8 @@ bun tauri dev
 #or
 cargo tauri dev
 ```
+
+
 
 Building manually into a executable file:
 
