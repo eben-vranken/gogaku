@@ -18,7 +18,7 @@ bun tauri dev
 cargo tauri dev
 ```
 
-Building manually into a .exe file:
+Building manually into a executable file:
 
 ```bash
 npm run tauri build
